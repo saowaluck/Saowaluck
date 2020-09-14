@@ -21,7 +21,7 @@
 
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saowaluck&layout=compact&hide=html" alt="saowaluck" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=saowaluck&show_icons=true" alt="saowaluck" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=saowaluck&show_icons=true" alt="saowaluck" />
 </div>
 
 
