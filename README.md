@@ -20,9 +20,11 @@
 - ⚡ Fun fact **Coffee, Book, Travel and Family**
 
 <div>
-<img  height="170" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saowaluck&layout=compact&hide=html" alt="saowaluck" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=saowaluck&show_icons=true" alt="saowaluck" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saowaluck&layout=compact&hide=html" alt="saowaluck" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=saowaluck&show_icons=true" alt="saowaluck" />
 </div>
+
+
 ## Passionately 
 
 <div align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg"
