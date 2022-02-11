@@ -59,7 +59,7 @@ Python           4 hrs      ████░░░░░░░░
     <tr>
         <td>
            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saowaluck&layout=compact&hide=html" alt="saowaluck" />
-           <img src="https://github-readme-stats.vercel.app/api?username=saowaluck&show_icons=true" alt="saowaluck" width="49%" />
+           <img src="https://github-readme-stats.vercel.app/api?username=saowaluck&show_icons=true" alt="saowaluck" width="50%" />
          </td>
     </tr>
  </table>
