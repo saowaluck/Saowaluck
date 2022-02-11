@@ -68,7 +68,7 @@ Python           4 hrs      ████░░░░░░░░
 ____
 <p align="center">
 <a href="https://dev.to/saowaluck" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="saowaluck" height="50" width="50" /></a>
-<a href="https://fb.com/saowaluck suksawat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="saowaluck suksawat" height="30" width="30" /></a>
+<a href="https://www.facebook.com/IIpop.tingtong/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="saowaluck suksawat" height="30" width="30" /></a>
 <a href="https://instagram.com/the_poppy_mall" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="the_poppy_mall" height="30" width="30" /></a>
 <a href="https://medium.com/@saowaluck" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@saowaluck" height="30" width="30" /></a>
 </p>
