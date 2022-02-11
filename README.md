@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F75C7E&size=22&center=true&vCenter=true&width=440&height=45&lines=Hi+%F0%9F%91%8B%2C+I'm+Saowaluck+Suksawat)](https://git.io/typing-svg)
+
 <h3 align="center">A passionate software developer with happiness and make software with lovely team</h3>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=saowaluck&count_private=true" /></p>
 
@@ -37,7 +38,7 @@ Python           4 hrs      ████░░░░░░░░
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="golang" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
@@ -46,6 +47,7 @@ Python           4 hrs      ████░░░░░░░░
       <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="react" width="55" height="55"/>
 </div>
 
 ### Blogs posts
