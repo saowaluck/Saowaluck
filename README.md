@@ -41,28 +41,29 @@ Python           4 hrs      ████░░░░░░░░
 
 <table>
     <tr>
-        <td align="center">
-            <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/>
-            <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
-            <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-            <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="55" height="55"/>
-            <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="golang" width="55" height="55"/>
-            <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
-            <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-            <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
-            <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="45" height="55"/>
-            <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="55" height="55"/>
-            <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="55" height="55"/>
-            <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="react" width="55" height="55"/>      
+        <td align="center" width="100%">
+            <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="35" height="35"/>
+            <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="35" height="35"/>
+            <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="35" height="35"/>
+            <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="35" height="35"/>
+            <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="golang" width="35" height="35"/>
+            <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="35" height="35"/>
+            <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="35"/>
+            <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="35"/>
+            <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="35" height="35"/>
+            <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="35" height="35"/>
+            <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="35" height="35"/>
+            <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="react" width="35" height="35"/>      
         </td>
     </tr>
     <tr>
-        <td>
+        <td width="100%">
            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saowaluck&layout=compact&hide=html" alt="saowaluck" />
-           <img src="https://github-readme-stats.vercel.app/api?username=saowaluck&show_icons=true" alt="saowaluck" width="50%" />
+           <img src="https://github-readme-stats.vercel.app/api?username=saowaluck&show_icons=true" alt="saowaluck" width="49%"/>
          </td>
     </tr>
  </table>
+     
      
 
 ____
