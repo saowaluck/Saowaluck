@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F75C7E&size=22&center=true&vCenter=true&width=440&height=45&lines=Hi+%F0%9F%91%8B%2C+I'm+Saowaluck+Suksawat)](https://git.io/typing-svg)
+<h1 align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F7D318&size=22&center=true&vCenter=true&width=440&height=45&lines=Hi+%F0%9F%91%8B%2C+I'm+Saowaluck+Suksawat">
+</h1>
+
 
 <h3 align="center">A passionate software developer with happiness and make software with lovely team</h3>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=saowaluck&count_private=true" /></p>
@@ -6,9 +9,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saowaluck" alt="saowaluck" /> </p>
 
-- 🔭 I’m currently working on ODDS THAILAND 
+- 🔭 I’m currently working on Odds-e Thailand
 
-- 🌱 I’m currently learning **PYTHON GO JAVA DOCKER KUBE COOKING TREE **
+- 🌱 I’m currently learning Programing, Soft skills, Inverstment
 
 - 👨‍💻 All of my projects are available at [saowaluck.github.io](saowaluck.github.io)
 
