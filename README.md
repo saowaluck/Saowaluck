@@ -4,7 +4,7 @@
 
 
 <h3 align="center">A passionate software developer with happiness and make software with lovely team</h3>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=saowaluck&count_private=true" /></p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=saowaluck&count_private=true&row=1&column=6" /></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saowaluck" alt="saowaluck" /> </p>
@@ -23,10 +23,6 @@
 
 - ⚡ Fun fact **Coffee, Book, Travel and Family**
 
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saowaluck&layout=compact&hide=html" alt="saowaluck" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=saowaluck&show_icons=true" alt="saowaluck" />
-</div>
 
 <h2>📊 Weekly development breakdown: </h2>
 
@@ -35,24 +31,39 @@ Java             8 hrs      ████████░░░░
 Python           4 hrs      ████░░░░░░░░
 ```
 
-
-## Passionately 
-<div align="center">
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="golang" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
-      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="55" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="react" width="55" height="55"/>
+<div>
+ 
 </div>
 
+
+
+## Passionately  
+
+<table>
+    <tr>
+        <td align="center">
+            <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/>
+            <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
+            <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+            <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="55" height="55"/>
+            <img src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg" alt="golang" width="55" height="55"/>
+            <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="60" height="50"/>
+            <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
+            <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
+            <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="oracle" width="45" height="55"/>
+            <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="angular" width="55" height="55"/>
+            <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="55" height="55"/>
+            <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="react" width="55" height="55"/>      
+        </td>
+    </tr>
+    <tr>
+        <td>
+           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saowaluck&layout=compact&hide=html" alt="saowaluck" />
+           <img src="https://github-readme-stats.vercel.app/api?username=saowaluck&show_icons=true" alt="saowaluck" width="49%" />
+         </td>
+    </tr>
+ </table>
+     
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
