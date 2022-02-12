@@ -64,7 +64,9 @@ Python           4 hrs      ████░░░░░░░░
     </tr>
  </table>
      
-     
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ____
 <p align="center">
