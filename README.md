@@ -66,6 +66,8 @@ Python           4 hrs      ████░░░░░░░░
      
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Struct ง่ายนิดเดียว](https://dev.to/saowaluck/struct-516o)
+- [มา  Optimize docker builds ด้วย multi-stage กันเถอะ](https://dev.to/prontotools/optimize-docker-builds-multi-stage-27e3)
 <!-- BLOG-POST-LIST:END -->
 
 ____
