@@ -13,8 +13,6 @@
 
 - 🌱 I’m currently learning Programing, Soft skills, Inverstment
 
-- 👨‍💻 All of my projects are available at [saowaluck.github.io](saowaluck.github.io)
-
 - 📝 I regularly write articles on [https://dev.to/saowaluck](https://dev.to/saowaluck)
 
 - 💬 Ask me about **Make life with positive thinking and learning about Python and Golang or other programming**
