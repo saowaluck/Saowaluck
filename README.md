@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saowaluck" alt="saowaluck" /> </p>
 
-- 🔭 I’m currently working on Odds-e Thailand
+- 🔭 I’m currently working at Odds-e Thailand
 
 - 🌱 I’m currently learning programming, Soft skills, Investment
 
