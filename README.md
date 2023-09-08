@@ -3,7 +3,7 @@
 </h1>
 
 
-<h3 align="center">A passionate software developer with happiness and make software with lovely team</h3>
+<h3 align="center">A passionate software developer with happiness and make software with a lovely team</h3>
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=saowaluck&count_private=true&row=1&column=6" /></p>
 
 
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on Odds-e Thailand
 
-- 🌱 I’m currently learning Programing, Soft skills, Inverstment
+- 🌱 I’m currently learning programming, Soft skills, Investment
 
 - 📝 I regularly write articles on [https://dev.to/saowaluck](https://dev.to/saowaluck)
 
